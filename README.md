@@ -13,7 +13,7 @@ P2: \<value\>,  # PM 2.5 <br>
 P4: \<value\>,  # PM 4 <br>
 T: \<value\>,   # Temperature <br>
 H: \<value\>,   # Relative humidity <br>
-P: \<value\>,   # Preessure <br>
+P: \<value\>,   # Pressure <br>
 
 Example:
 "ID:12847178,P0:61.14,P1:66.04,P2:53.32,P4:42.27,T:22.30,H:34.70,P:1002.70"
